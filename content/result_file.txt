@@ -1,0 +1,1 @@
+using writefilesync function to show this string using writefilesync function to show this string
